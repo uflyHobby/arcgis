@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CustomTileLayer.iml" filepath="$PROJECT_DIR$/CustomTileLayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arcgismap.iml" filepath="$PROJECT_DIR$/arcgismap.iml" />
     </modules>
   </component>
 </project>
