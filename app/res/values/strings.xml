@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UsingSceneSymbol</string>
+    <string name="app_name_title">UsingSceneSymbol</string>
+    <string name="world_elevation">
+        "http://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer"</string>
+    <string name="brest_buildings">
+        "http://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/Buildings_Brest/SceneServer"</string>
+    <string name="models_bristol">
+        "/storage/emulated/0/Hymn/3dmodels/Bristol/Bristol.dae"</string>
+    <string name="china_polygon">
+        "/storage/emulated/0/Hymn/operation_read/china.geodatabase"</string>
+</resources>
