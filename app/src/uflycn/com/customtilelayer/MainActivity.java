@@ -10,8 +10,6 @@
  import android.support.v7.app.AppCompatActivity;
  import android.widget.Toast;
 
- import com.esri.arcgisruntime.geometry.GeometryEngine;
- import com.esri.arcgisruntime.geometry.Point;
  import com.esri.arcgisruntime.layers.ArcGISSceneLayer;
  import com.esri.arcgisruntime.layers.FeatureLayer;
  import com.esri.arcgisruntime.layers.WebTiledLayer;
@@ -20,9 +18,10 @@
  import com.esri.arcgisruntime.mapping.view.GraphicsOverlay;
  import com.esri.arcgisruntime.mapping.view.SceneView;
 
- import esrichina.hymn.Methods.TianDiTuMethodsClass;
+ import uflycn.com.customtilelayer.map.TianDiTuMethodsClass;
 
-public class MainActivity extends AppCompatActivity {
+
+ public class MainActivity extends AppCompatActivity {
     private int requestCode = 2;
     String[] reqPermissions = new String[]{
             Manifest.permission.INTERNET,
